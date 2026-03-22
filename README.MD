@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Merhaba, ben Aslaan</h1>
+<h1 align="center">👋 Merhaba, ben Yiğit</h1>
 
 <p align="center">
 💻 Veri Bilimi • Makine Öğrenmesi • Backend Geliştirme  
@@ -18,7 +18,7 @@
 
 ## 🌐 Projelerim
 
-### 🎓 sinavizcisi.com
+### 🎓 sinavizcisi.com - co-Founder
 
 * Türkiye’deki eğitim verilerini analiz eden bir platform
 * Üniversite yorumları ve verileri üzerinden içgörü üretme
@@ -77,5 +77,5 @@
 ---
 
 <p align="center">
-🔥 "Veri sadece sayı değildir, doğru işlendiğinde karar mekanizmasıdır."
+🔥 "İyi forumlar"
 </p>
